@@ -1,0 +1,238 @@
+[
+  {
+    "text": "Door een goed staaltje onderzoeksjournalistiek komt naar boven dat één van de fabrieken waar één van jullie halffabricaten wordt gemaakt het niet zo nauw neemt met kinderarbeid en eerlijke verloning. Er bleken ten tijde van het onderzoek 14 kinderen te werken onder 320 werknemers. En van die werknemers werd er niemand betaald boven het bestaansminimum. ",
+    "answers": [
+      {
+        "number": 1,
+        "text": "Je adviseert om alle samenwerking met deze fabriek te verbreken.",
+        "result": "Je moet op zoek naar een andere fabriek. Deze is duurder en je marge wordt kleiner. De reactie komt in het nieuws en klanten reageren, ondanks de vertraagde productie, positief op jullie keuze. (F –15%, S +6%)",
+        "dice": 0,
+        "affects": [
+          {
+            "1": [
+              {
+                "financial": -15
+              },
+              {
+                "social": 6
+              }
+            ]
+          },
+          {
+            "2": [
+              {}
+            ]
+          },
+          {
+            "3": [
+              {}
+            ]
+          },
+          {
+            "4": [
+              {}
+            ]
+          },
+          {
+            "5": [
+              {}
+            ]
+          },
+          {
+            "6": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "text": "Je adviseert om alle samenwerking met deze fabriek te verbreken.",
+        "result": "Je stuurt een eigen delegatie naar de fabriek om een actieprogramma op te zetten en een van deze medewerkers blijft 3 jaar aanwezig voor verbetering. De kinderen gaan nu naar school in plaats van naar de fabriek. (F: -8%, H: +9%, S: +3%)",
+        "dice": 0,
+        "affects": [
+          {
+            "1": [
+              {
+                "financial": -8
+              },
+              {
+                "human": 6
+              },
+              {
+                "social": 3
+              }
+            ]
+          },
+          {
+            "2": [
+              {}
+            ]
+          },
+          {
+            "3": [
+              {}
+            ]
+          },
+          {
+            "4": [
+              {}
+            ]
+          },
+          {
+            "5": [
+              {}
+            ]
+          },
+          {
+            "6": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "text": "Je adviseert om nog meer productiewerk onder te brengen bij deze fabriek omdat de arbeid goedkoop is.",
+        "result": "De fabriek is blij met de extra orders en gaat aan de slag. Jullie produceren boven verwachting units dit jaar en de omzet stijgt naar recordhoogte. (F: +8%) Je neemt de gok dat de ophef klein blijft. Gooi een dobbelsteen. Bij 1-3 komt het verhaal hard aan bij je stakeholders en nadat bekend wordt dat je zelfs extra werk hierheen hebt gestuurd nemen veel stakeholders afstand van je.  (S:-15%) Bij 4-6 het verhaal krijgt weinig media-aandacht. Je gok betaalt zich uit.",
+        "dice": 1,
+        "affects": [
+          {
+            "1": [
+              {
+                "financial": 8
+              },
+              {
+                "social": -15
+              }
+            ]
+          },
+          {
+            "2": [
+              {
+                "financial": 8
+              },
+              {
+                "social": -15
+              }
+            ]
+          },
+          {
+            "3": [
+              {
+                "financial": 8
+              },
+              {
+                "social": -15
+              }
+            ]
+          },
+          {
+            "4": [
+              {
+                "financial": 8
+              }
+            ]
+          },
+          {
+            "5": [
+              {
+                "financial": 8
+              }
+            ]
+          },
+          {
+            "6": [
+              {
+                "financial": 8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "text": "Je adviseert om de PR-afdeling in stelling te brengen om te laten zien wat jullie bedrijf allemaal goed doet.",
+        "result": "Je voorkomt imagoschade door een campagne op te zetten rondom de inzet voor menselijk en sociaal kapitaal. (F: -4%)",
+        "dice": 0,
+        "affects": [
+          {
+            "1": [
+              {
+                "financial": -4
+              }
+            ]
+          },
+          {
+            "2": [
+              {}
+            ]
+          },
+          {
+            "3": [
+              {}
+            ]
+          },
+          {
+            "4": [
+              {}
+            ]
+          },
+          {
+            "5": [
+              {}
+            ]
+          },
+          {
+            "6": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "text": "Je adviseert op alles te laten zoals het is.",
+        "result": "De eerste maanden nadat het nieuws naar buiten komt daalt de omzet licht maar dit wordt in de loop van het jaar hersteld. De cancel-cultuur krijgt geen grip op jullie bedrijf, desondanks is er toch sprake van enige imagoschade en bij jullie duurzaamheidsverslag komt menselijk kapitaal er slechter vanaf. (S: -2%, H: -4%)",
+        "dice": 0,
+        "affects": [
+          {
+            "1": [
+              {
+                "social": -2
+              },
+              {
+                "human": -4
+              }
+            ]
+          },
+          {
+            "2": [
+              {}
+            ]
+          },
+          {
+            "3": [
+              {}
+            ]
+          },
+          {
+            "4": [
+              {}
+            ]
+          },
+          {
+            "5": [
+              {}
+            ]
+          },
+          {
+            "6": [
+              {}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

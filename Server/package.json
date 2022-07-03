@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@socket.io/admin-ui": "^0.3.0",
+    "csvtojson": "^2.0.10",
+    "express": "^4.18.1",
+    "express-fileupload": "^1.4.0",
+    "i": "^0.3.7",
+    "monitor.io": "^0.1.0",
+    "multer": "*",
+    "socket.io": "^4.5.1",
+    "xlsx": "^0.18.5"
+  }
+}

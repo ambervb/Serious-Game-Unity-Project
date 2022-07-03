@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f2504ce7a4325b84ba5a3777c552c8f1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DiceOne: {fileID: 21300000, guid: 56947ea56e5ac414fa1f996d5b6fa16a, type: 3}
+  - DiceTwo: {fileID: 21300000, guid: fbb15bfde1503a24ba64ac61237b6cf2, type: 3}
+  - DiceThree: {fileID: 21300000, guid: b2ef2e963057e04498d63b2105eafb53, type: 3}
+  - DiceFour: {fileID: 21300000, guid: ba840160625f865448a587d15bfb7536, type: 3}
+  - DiceFive: {fileID: 21300000, guid: 7dafbc0170080d64ab0c471d489c4ab8, type: 3}
+  - DiceSix: {fileID: 21300000, guid: 8b088f70b4971814f9ed189727eb2dea, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
